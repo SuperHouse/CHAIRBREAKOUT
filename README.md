@@ -1,6 +1,6 @@
 Chair Control Breakout
 =======================
-Copyright 2018 SuperHouse Pty Ltd <www.superhouse.tv>  
+Copyright 2018 SuperHouse Automation Pty Ltd <www.superhouse.tv>  
 Designed by Jonathan Oxer
 
 Connects between an electric wheelchair input device and the chair
@@ -31,7 +31,7 @@ Features:
 
 More information is available at:
 
-  http://www.superhouse.tv/chaircontrol
+  http://www.superhouse.tv/chairbreakout
 
 
 INSTALLATION
